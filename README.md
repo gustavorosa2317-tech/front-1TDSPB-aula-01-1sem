@@ -16,3 +16,7 @@ front-end-desing-engineering/ fia
 -- git merge
 
 ´´´
+
+https://validator.w3.org/nu/#textarea
+
+https://www.w3schools.com/
